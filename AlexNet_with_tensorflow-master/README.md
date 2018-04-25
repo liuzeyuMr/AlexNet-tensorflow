@@ -26,8 +26,4 @@ You can also use tensorboard to monitor the process. Remeber to see [detailed ex
 <br />
 <br />
 
-If you have any problem, please contact me!
 
-blog  ：[http://blog.csdn.net/accepthjp](http://blog.csdn.net/accepthjp)
-
-email ：huangjipengnju@gmail.com
